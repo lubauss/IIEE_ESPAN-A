@@ -1,5 +1,5 @@
 # venv name
-weaviate-docker/
+# IIEE_ESPAÑA/IIEE_ESPAÑA
 
 # streamlit secrets
 .streamlit/secrets.toml
